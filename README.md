@@ -53,10 +53,9 @@
 ## About The Project
 
 <div align="center">
-  <video src="preview/PreviewVidProtfolioPCM.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
   <br />
-  <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>Watch Project Demo Video »</strong></a>
-</div>
+https://github.com/user-attachments/assets/3c0145e2-7cb3-4573-b86e-0d5f5657cbcc
+  </div>
 <br />
 
 This repository contains an **Academic Responsive Web Portfolio** developed from scratch for the *Programação e Comunicação Multimédia (PCM)* course at **ISEL (Instituto Superior de Engenharia de Lisboa)**.
