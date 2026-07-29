@@ -6,7 +6,7 @@
   <h3 align="center">Academic Responsive Web Portfolio</h3>
 
   <p align="center">
-    A modern, responsive web portfolio developed as an academic project for the <strong>Programação e Comunicação Multimédia (PCM)</strong> course at <strong>ISEL (Instituto Superior de Engenharia de Lisboa)</strong>.
+    A modern, responsive web portfolio developed as an academic project for the <strong>Programação de Conteudos Multimédia (PCM)</strong> course at <strong>ISEL (Instituto Superior de Engenharia de Lisboa)</strong>.
     <br />
     <br />
     <a href="#about-the-project"><strong>Explore the Documentation »</strong></a>
