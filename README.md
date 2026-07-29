@@ -48,17 +48,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center">
-  <a href="preview/PreviewVidProtfolioPCM.mp4">
+ <a href="preview/PreviewVidProtfolioPCM.mp4">
     <img src="preview/printHomePage.png" alt="Portfolio Preview - Click to Watch Video Demo" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
+  
+<div align="center">
   <br />
   <br />
   <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>Click to Watch Project Demo Video (MP4) »</strong></a>
   <br />
   <br />
   <!-- Alternative inline video player -->
-  <video src="preview/PreviewVidProtfolioPCM.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+  or watch Below
+  <br />
+
+https://github.com/user-attachments/assets/8ba3dd54-3ad4-4242-b348-60811adaebe6
+
+
 </div>
 <br />
 
