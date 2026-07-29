@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="preview/PreviewVidProtfolioPCM.mp4">
-    <img src="preview/printHomePage.png" alt="Portfolio Preview - Click to Watch Video Demo" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="preview/printHomePage.png" alt="Portfolio Preview - Click to Watch Video Demo" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
   <br />
   <br />
