@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/8ba3dd54-3ad4-4242-b348-60811adaebe6
 </div>
 <br />
 
-This repository contains an **Academic Responsive Web Portfolio** developed from scratch for the *Programação e Comunicação Multimédia (PCM)* course at **ISEL (Instituto Superior de Engenharia de Lisboa)**.
+This repository contains an **Academic Responsive Web Portfolio** developed from scratch for the *Programação de Conteudos Multimédia (PCM)* course at **ISEL (Instituto Superior de Engenharia de Lisboa)**.
 
 The project serves as a central showcase for our academic achievements and multidisciplinary engineering projects across Web Development, Object-Oriented Programming (Java/Python), and 3D Multimedia Modeling (Blender). It emphasizes clean **Vanilla CSS3** (geometric clip-paths, linear-gradient overlays, custom animations), **Bootstrap 5** for responsive layouts, and **Vanilla JavaScript** for DOM interactions.
 
@@ -160,7 +160,7 @@ Project Link: [https://github.com/GuilhermeGraca/WebPage-Example-Portfolio](http
 ## Acknowledgments
 
 * **ISEL – Instituto Superior de Engenharia de Lisboa** – For the academic framework and engineering education.
-* **Programação e Comunicação Multimédia (PCM)** – For the project guidelines and multidisciplinary learning objectives.
+* **Programação de Conteúdos Multimédia (PCM)** – For the project guidelines and multidisciplinary learning objectives.
 * [Bootstrap 5.3](https://getbootstrap.com/) – For responsive UI components and grid architecture.
 * [Google Fonts](https://fonts.google.com/) – For providing the *Oswald*, *PT Sans*, and *Kalam* font families.
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template) – For the professional Markdown documentation structure.
