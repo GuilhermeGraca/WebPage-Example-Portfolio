@@ -54,7 +54,7 @@
   </a>
   <br />
   <br />
-  <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>▶️ Click to Watch Project Demo Video (MP4) »</strong></a>
+  <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>Click to Watch Project Demo Video (MP4) »</strong></a>
   <br />
   <br />
   <!-- Alternative inline video player -->
