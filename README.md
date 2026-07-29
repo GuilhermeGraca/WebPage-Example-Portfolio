@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO & HEADER -->
 <br />
 <div align="center">
-  <a href="https://github.com/GuilhermeGraca/WebPage-Example-Portfolio">
-    <img src="WebPage_Example_Portfolio/imagens/Slide 1.jpg" alt="Portfolio Logo" width="120" height="80" style="border-radius: 8px; object-fit: cover;">
-  </a>
-
   <h3 align="center">Academic Responsive Web Portfolio</h3>
 
   <p align="center">
@@ -53,9 +49,16 @@
 ## About The Project
 
 <div align="center">
-  <video src="preview/PreviewVidProtfolioPCM.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+  <a href="preview/PreviewVidProtfolioPCM.mp4">
+    <img src="preview/printHomePage.png" alt="Portfolio Preview - Click to Watch Video Demo" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
   <br />
-  <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>Watch Project Demo Video »</strong></a>
+  <br />
+  <a href="preview/PreviewVidProtfolioPCM.mp4"><strong>▶️ Click to Watch Project Demo Video (MP4) »</strong></a>
+  <br />
+  <br />
+  <!-- Alternative inline video player -->
+  <video src="preview/PreviewVidProtfolioPCM.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
 </div>
 <br />
 
