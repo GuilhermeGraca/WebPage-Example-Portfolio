@@ -12,9 +12,9 @@
     <a href="#about-the-project"><strong>Explore the Documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GuilhermeGraca/WebPage-Example-Portfolio/issues">Report Bug</a>
+    <a href="https://github.com/GuilhermeGraca/webpage-example-portfolio/issues">Report Bug</a>
     &middot;
-    <a href="https://github.com/GuilhermeGraca/WebPage-Example-Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/GuilhermeGraca/webpage-example-portfolio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -118,11 +118,11 @@ Follow these instructions to set up a local copy of the project and test the web
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/GuilhermeGraca/WebPage-Example-Portfolio.git
+   git clone https://github.com/GuilhermeGraca/webpage-example-portfolio.git
    ```
 2. **Navigate to the project directory**:
    ```sh
-   cd WebPage-Example-Portfolio
+   cd webpage-example-portfolio
    ```
 3. **Open the application**:
    * Open `WebPage_Example_Portfolio/html/main.html` directly in your web browser.
@@ -150,7 +150,7 @@ Follow these instructions to set up a local copy of the project and test the web
   * LinkedIn: [Guilherme Graça](https://www.linkedin.com/in/guilherme-gra%C3%A7a-b58299330/)
   * GitHub: [@GuilhermeGraca](https://github.com/GuilhermeGraca)
 
-Project Link: [https://github.com/GuilhermeGraca/WebPage-Example-Portfolio](https://github.com/GuilhermeGraca/WebPage-Example-Portfolio)
+Project Link: [https://github.com/GuilhermeGraca/webpage-example-portfolio](https://github.com/GuilhermeGraca/webpage-example-portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
